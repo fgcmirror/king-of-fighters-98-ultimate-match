@@ -1,0 +1,117 @@
+/*----------------フォーム設定----------------*/
+
+form {
+	margin: 0px;
+}
+
+/*----------------リンク基本設定----------------*/
+
+A:link {color:#FFCC00; text-decoration:none}
+A:visited {color:#FFCC00; text-decoration:none}
+A:hover {color:#FFCC00; text-decoration:underline}
+A:active {text-decoration:none}
+
+A.navi:link {color:#FF6600; text-decoration:none}
+A.navi:visited {color:#FF6600; text-decoration:none}
+A.navi:hover {color:#FF6600; text-decoration:underline}
+A.navi:active {text-decoration:none}
+
+A.comment:link {color:#FFFF00; text-decoration:none}
+A.comment:visited {color:#FFFF00; text-decoration:none}
+A.comment:hover {color:#FFFF00; text-decoration:underline}
+A.comment:active {text-decoration:none}
+
+A.info:link {color:#0033FF; text-decoration:none}
+A.info:visited {color:#0033FF; text-decoration:none}
+A.info:hover {color:#0033FF; text-decoration:underline}
+A.info:active {text-decoration:none}
+
+
+/*----------------イメージセンター揃え----------------*/
+img.header{
+        vertical-align:middle;
+        }
+
+/*----------------テキスト基本設定----------------*/
+
+.sText {
+	font-size: 10px;
+	line-height: 120%;
+	}
+	
+.mText {
+	font-size: 12px;
+	line-height: 130%;
+	}
+	
+.lText {
+	font-size: 14px;
+	line-height: 140%;
+	}
+	
+.llText {
+	font-size: 17px;
+	line-height: 140%;
+	}
+
+/*---Falcoo roomナビ-----*/
+.navi-text {
+	font-size: 12px;
+	line-height: 130%;
+	margin:5px 0px 17px 0px;
+	}
+/*---コメントテキスト-----*/
+.comment-text {
+	font-size: 12px;
+	line-height: 130%;
+	color:#FFFFFF;
+	margin:7px;
+	}
+/*---システムナビテキスト-----*/
+.system-navi {
+	font-size: 12px;
+	line-height: 130%;
+	color:#FFFFFF;
+	margin:3px 0px 3px 15px;
+	}
+/*---ムービーナビテキスト-----*/
+.movie-navi {
+	font-size: 12px;
+	line-height: 130%;
+	color:#000000;
+	margin:0px 0px 0px 6px;
+	}
+/*---赤テキスト-----*/
+.t-red-s {
+	font-size: 10px;
+	line-height: 130%;
+	color:#FF0000;
+	}
+.t-red-m {
+	font-size: 12px;
+	line-height: 130%;
+	color:#FF0000;
+	}
+.t-red-ll {
+	font-size: 17px;
+	line-height: 140%;
+	color:#FF0000;
+	}
+/*---白テキスト-----*/
+.t-white-s {
+	font-size: 10px;
+	line-height: 130%;
+	color:#FFFFFF;
+	}
+/*---黒テキスト-----*/
+.t-black-m {
+	font-size: 12px;
+	line-height: 130%;
+	color:#000000;
+	}
+/*---緑テキスト-----*/
+.t-green-m {
+	font-size: 12px;
+	line-height: 130%;
+	color:#009900;
+	}
