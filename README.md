@@ -6,6 +6,7 @@ Live at <https://king-of-fighters-98-ultimate-match.fgcmirror.com>.
 
 ## Source
 
+- **Category**: Official game site
 - **Original URL**: <https://game.snk-corp.co.jp/official/kof98um/>
 - **Original host**: `game.snk-corp.co.jp`
 - **Captured at**: 2026-05-02T22:57:33.165448Z
@@ -14,6 +15,8 @@ Live at <https://king-of-fighters-98-ultimate-match.fgcmirror.com>.
 ## Snapshots used
 
 - **Captured live** from <https://game.snk-corp.co.jp/official/kof98um/> on 2026-05-02T22:57:33.165150Z.
+- **Complementary snapshots** (used to fill missing assets):
+  - `` () — 20 asset(s)
 
 ## Notes
 

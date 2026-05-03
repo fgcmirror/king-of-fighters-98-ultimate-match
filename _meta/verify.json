@@ -1,0 +1,16 @@
+{
+  "verified_at": "2026-05-03T20:00:37Z",
+  "static": {
+    "pass": true,
+    "missing": 0
+  },
+  "spider": {
+    "pass": false,
+    "broken": 1
+  },
+  "residual": {
+    "pass": false,
+    "files": 4
+  },
+  "pass": false
+}

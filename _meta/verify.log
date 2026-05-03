@@ -1,575 +1,569 @@
-2026-05-03 00:57:37 URL:http://localhost:8765/ [8241/8241] -> "localhost:8765/index.html.tmp.tmp" [1]
-http://localhost:8765/robots.txt:
-2026-05-03 00:57:37 ERROR 404: File not found.
-2026-05-03 00:57:37 URL:http://localhost:8765/common.css [2350/2350] -> "localhost:8765/common.css.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/common.js 200 OK
+2026-05-03 22:00:36 URL:http://localhost:57806/ [8057/8057] -> "localhost:57806/index.html.tmp.tmp" [1]
+http://localhost:57806/robots.txt:
+2026-05-03 22:00:36 ERROR 404: File not found.
+2026-05-03 22:00:36 URL:http://localhost:57806/common.css [2350/2350] -> "localhost:57806/common.css.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/common.js 200 OK
 unlink: No such file or directory
-http://localhost:8765/__utm.js:
+2026-05-03 22:00:36 URL: http://localhost:57806/common/bg.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/taito.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/hed.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/bg_left.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/spacer.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/title.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/kof.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/t_new.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/index.html [11537/11537] -> "localhost:57806/hakase/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top04.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top05.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/top06.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/index.html [17625/17625] -> "localhost:57806/character/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/system/index.html [7335/7335] -> "localhost:57806/system/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/screenshot/index.html [8903/8903] -> "localhost:57806/screenshot/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/movie/index.html [9969/9969] -> "localhost:57806/movie/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu04.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu05.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/ps2/index.html [8476/8476] -> "localhost:57806/ps2/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/img/b_menu06.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/bg_right.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/right.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/fot.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/bana_snkplaymore.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/t_copyright.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/t_kadou.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_98um_xboxlive.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/taito.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/index.html [8057/8057] -> "localhost:57806/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/common/hed01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/hed02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu04.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu05.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/common/b_menu06.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/t_hakase.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p01.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/01.html [17428/17428] -> "localhost:57806/hakase/01.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_01.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/11.html [23095/23095] -> "localhost:57806/hakase/11.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_11.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/02.html [21953/21953] -> "localhost:57806/hakase/02.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_02.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/12.html [20866/20866] -> "localhost:57806/hakase/12.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_12.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/03.html [21706/21706] -> "localhost:57806/hakase/03.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_03.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/13.html [20292/20292] -> "localhost:57806/hakase/13.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_13.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/04.html [22392/22392] -> "localhost:57806/hakase/04.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_04.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/05.html [23031/23031] -> "localhost:57806/hakase/05.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_05.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/06.html [24291/24291] -> "localhost:57806/hakase/06.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_06.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/07.html [22490/22490] -> "localhost:57806/hakase/07.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_07.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/08.html [23650/23650] -> "localhost:57806/hakase/08.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_08.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/09.html [24277/24277] -> "localhost:57806/hakase/09.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_09.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/hakase/10.html [27319/27319] -> "localhost:57806/hakase/10.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/b_10.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/t_character.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/heroes.html [22337/22337] -> "localhost:57806/character/heroes.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/garou.html [22341/22341] -> "localhost:57806/character/garou.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/ryuko.html [22341/22341] -> "localhost:57806/character/ryuko.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/ikari.html [22323/22323] -> "localhost:57806/character/ikari.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team04.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/psycho.html [22367/22367] -> "localhost:57806/character/psycho.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team05.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/women.html [22347/22347] -> "localhost:57806/character/women.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team06.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/korea.html [22329/22329] -> "localhost:57806/character/korea.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team07.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/orochi.html [22337/22337] -> "localhost:57806/character/orochi.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team08.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/97sp.html [22351/22351] -> "localhost:57806/character/97sp.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team09.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/yagami.html [22331/22331] -> "localhost:57806/character/yagami.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team10.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/oyaji.html [22335/22335] -> "localhost:57806/character/oyaji.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team11.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/usa.html [22367/22367] -> "localhost:57806/character/usa.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team12.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/96boss.html [22341/22341] -> "localhost:57806/character/96boss.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/team13.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/t_14.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/parts_cl.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/98umbosschara01.html [22417/22417] -> "localhost:57806/character/98umbosschara01.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_14_01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/parts_cc.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/98umbosschara02.html [22405/22405] -> "localhost:57806/character/98umbosschara02.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_14_02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/98umbosschara03.html [22429/22429] -> "localhost:57806/character/98umbosschara03.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_14_03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/parts_cr.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/parts_cb.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/t_15.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/editchara01.html [22407/22407] -> "localhost:57806/character/editchara01.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_15_01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/editchara02.html [22407/22407] -> "localhost:57806/character/editchara02.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_15_02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/editchara03.html [22407/22407] -> "localhost:57806/character/editchara03.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_15_03.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/editchara04.html [22461/22461] -> "localhost:57806/character/editchara04.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_15_04.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/t_16.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/cpu01.html [22461/22461] -> "localhost:57806/character/cpu01.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_16_01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/character/cpu02.html [22467/22467] -> "localhost:57806/character/cpu02.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/character/img/per_16_02.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/img/t_system.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/img/p_sys01.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/img/p_sys02.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/img/p_sys03.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/ac_runactivecontent.js 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/system/ruffle/ruffle.js 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/screenshot/img/t_screenshot.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/screenshot/img/ss.swf 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/movie/img/t_movie.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/movie/img/p_new.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/movie/img/pv2.swf 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/movie/img/pv1.swf 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/t_ps2.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/p_ps201.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/p_ps202.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/p_ps203.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/p_ps204.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/p_ps205.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL:http://localhost:57806/info/index.html [11019/11019] -> "localhost:57806/info/index.html.tmp.tmp" [1]
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/b_info_ps2.jpg 200 OK
+unlink: No such file or directory
+http://localhost:57806/inquiry/mmbb.php:
 Remote file does not exist -- broken link!!!
-2026-05-03 00:57:37 URL: http://localhost:8765/common/bg.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/ps2/img/bana_mmbb.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/taito.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/common/hed.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_02.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/common/bg_left.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_03.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/common/spacer.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_04.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/common/title.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_05.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/kof.gif 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_06.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top01.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_07.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top02.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_08.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/t_new.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_09.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL:http://localhost:8765/hakase/index.html [11765/11765] -> "localhost:8765/hakase/index.html.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top03.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_10.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top04.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_11.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top05.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_12.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/top06.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/menu_13.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL:http://localhost:8765/character/index.html [17914/17914] -> "localhost:8765/character/index.html.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/img/b_menu01.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/t_01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL:http://localhost:8765/system/index.html [7518/7518] -> "localhost:8765/system/index.html.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/img/b_menu02.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_hakase.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL:http://localhost:8765/screenshot/index.html [8954/8954] -> "localhost:8765/screenshot/index.html.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/img/b_menu03.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_01_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL:http://localhost:8765/movie/index.html [10036/10036] -> "localhost:8765/movie/index.html.tmp.tmp" [1]
-2026-05-03 00:57:37 URL: http://localhost:8765/img/b_menu04.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/t_11.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:37 URL: http://localhost:8765/img/b_menu05.jpg 200 OK
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_11_neogeostory.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/t_02.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_02_system01.jpg 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_02_chara.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/p_02_neogeostory.gif 200 OK
+unlink: No such file or directory
+2026-05-03 22:00:36 URL: http://localhost:57806/hakase/img/t_12.gif 200 OK
 unlink: No such file or directory
 No data received.
-2026-05-03 00:57:38 URL:http://localhost:8765/ps2/index.html [8681/8681] -> "localhost:8765/ps2/index.html.tmp.tmp" [2]
-2026-05-03 00:57:38 URL: http://localhost:8765/img/b_menu06.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_03.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/bg_right.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_03_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/right.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_13.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/fot.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_13_neogeostory.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/bana_snkplaymore.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_04.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/t_copyright.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_stage01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/t_kadou.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_stage02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_98um_xboxlive.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_stage03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/taito.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_stage04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/index.html [8241/8241] -> "localhost:8765/index.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/common/hed01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_stage05.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/hed02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_04_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_05.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_05_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_05_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_05_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu05.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_05_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/common/b_menu06.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_05_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/t_hakase.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_06.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/p01.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/01.html [18023/18023] -> "localhost:8765/hakase/01.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_01.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/11.html [23766/23766] -> "localhost:8765/hakase/11.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_11.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/02.html [22603/22603] -> "localhost:8765/hakase/02.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_02.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/12.html [21487/21487] -> "localhost:8765/hakase/12.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_12.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_05.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/03.html [22320/22320] -> "localhost:8765/hakase/03.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_03.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_06.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/13.html [20960/20960] -> "localhost:8765/hakase/13.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_13.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_06_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/04.html [23068/23068] -> "localhost:8765/hakase/04.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_04.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_07.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/05.html [23676/23676] -> "localhost:8765/hakase/05.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_05.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_07_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/06.html [24950/24950] -> "localhost:8765/hakase/06.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_06.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_07_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/07.html [23132/23132] -> "localhost:8765/hakase/07.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_07.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_07_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/08.html [24286/24286] -> "localhost:8765/hakase/08.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_08.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_07_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/09.html [25003/25003] -> "localhost:8765/hakase/09.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_09.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_07_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/hakase/10.html [28105/28105] -> "localhost:8765/hakase/10.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/hakase/img/b_10.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_08.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL: http://localhost:8765/character/img/t_character.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_08_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/character/heroes.html [22890/22890] -> "localhost:8765/character/heroes.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/character/img/team01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_08_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/character/garou.html [22894/22894] -> "localhost:8765/character/garou.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/character/img/team02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_08_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:38 URL:http://localhost:8765/character/ryuko.html [22894/22894] -> "localhost:8765/character/ryuko.html.tmp.tmp" [1]
-2026-05-03 00:57:38 URL: http://localhost:8765/character/img/team03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_08_04.jpg 200 OK
 unlink: No such file or directory
-Read error (Connection reset by peer) in headers.
-2026-05-03 00:57:39 URL:http://localhost:8765/character/ikari.html [22876/22876] -> "localhost:8765/character/ikari.html.tmp.tmp" [2]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_08_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/psycho.html [22920/22920] -> "localhost:8765/character/psycho.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team05.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_09.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/women.html [22900/22900] -> "localhost:8765/character/women.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team06.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_09_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/korea.html [22882/22882] -> "localhost:8765/character/korea.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team07.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_09_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/orochi.html [22890/22890] -> "localhost:8765/character/orochi.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team08.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_09_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/97sp.html [22904/22904] -> "localhost:8765/character/97sp.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team09.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_09_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/yagami.html [22884/22884] -> "localhost:8765/character/yagami.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team10.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_09_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/oyaji.html [22888/22888] -> "localhost:8765/character/oyaji.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team11.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/t_10.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/usa.html [22920/22920] -> "localhost:8765/character/usa.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team12.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/96boss.html [22894/22894] -> "localhost:8765/character/96boss.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/team13.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/t_14.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/parts_cl.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/98umbosschara01.html [22970/22970] -> "localhost:8765/character/98umbosschara01.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_14_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_05.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/parts_cc.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_06.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/98umbosschara02.html [22958/22958] -> "localhost:8765/character/98umbosschara02.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_14_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_07.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/98umbosschara03.html [22982/22982] -> "localhost:8765/character/98umbosschara03.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_14_03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_08.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/parts_cr.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_09.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/parts_cb.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/hakase/img/p_10_neogeostory.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/t_15.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/editchara01.html [22960/22960] -> "localhost:8765/character/editchara01.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_15_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/editchara02.html [22960/22960] -> "localhost:8765/character/editchara02.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_15_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/editchara03.html [22960/22960] -> "localhost:8765/character/editchara03.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_15_03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/editchara04.html [23014/23014] -> "localhost:8765/character/editchara04.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_15_04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team05.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/t_16.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team06.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/cpu01.html [23014/23014] -> "localhost:8765/character/cpu01.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_16_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team07.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/character/cpu02.html [23020/23020] -> "localhost:8765/character/cpu02.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/character/img/per_16_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team08.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/system/img/t_system.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team09.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/system/img/p_sys01.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team10.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/system/img/p_sys02.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team11.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/system/img/p_sys03.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team12.jpg 200 OK
 unlink: No such file or directory
-http://localhost:8765/Scripts/AC_RunActiveContent.js:
-Remote file does not exist -- broken link!!!
-2026-05-03 00:57:39 URL: http://localhost:8765/screenshot/img/t_screenshot.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team13.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/screenshot/img/ss.swf 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/t_c14.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/movie/img/t_movie.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scl.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/movie/img/p_new.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_14_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/movie/img/pv2.swf 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scc01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/movie/img/pv1.swf 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_14_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/t_ps2.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scc02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/p_ps201.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_14_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/p_ps202.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scr.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/p_ps203.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scb.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/p_ps204.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/t_c15.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/p_ps205.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_15_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL:http://localhost:8765/info/index.html [11363/11363] -> "localhost:8765/info/index.html.tmp.tmp" [1]
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/b_info_ps2.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_15_02.jpg 200 OK
 unlink: No such file or directory
-http://localhost:8765/inquiry/mmbb.php:
-Remote file does not exist -- broken link!!!
-2026-05-03 00:57:39 URL: http://localhost:8765/ps2/img/bana_mmbb.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_15_03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_01.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/parts_scc03.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_02.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_15_04.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_03.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/t_c16.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_04.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_16_01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_05.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_per_16_02.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_06.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/menu_team_obi.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_07.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/heroes_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_08.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/heroes_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_09.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/garou_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_10.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/garou_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_11.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/ryuko_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_12.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/ryuko_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/menu_13.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/ikari_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_01.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/ikari_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_hakase.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/psycho_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_01_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/psycho_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_11.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/women_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_11_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/women_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_02.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/korea_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_02_system01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/korea_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_02_chara.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/orochi_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_02_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/orochi_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_12.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/97sp_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_03.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/97sp_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_03_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/yagami_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_13.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/yagami_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_13_neogeostory.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/oyaji_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_04.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/oyaji_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_stage01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/usa_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_stage02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/usa_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_stage03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/96boss_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_stage04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/96boss_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_stage05.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara01_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_04_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara01_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_05.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara02_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_05_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara02_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_05_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara03_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_05_03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/98umbosschara03_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_05_04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara01_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_05_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara01_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/t_06.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara02_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_06_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara02_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:39 URL: http://localhost:8765/hakase/img/p_06_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara03_p01.jpg 200 OK
 unlink: No such file or directory
-Read error (Connection reset by peer) in headers.
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_06_03.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara03_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_06_04.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara04_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_06_05.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/editchara04_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_06_06.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/cpu01_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_06_neogeostory.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/cpu01_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/t_07.gif 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/cpu02_p01.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_07_01.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/character/img/cpu02_spec01.gif 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_07_02.jpg 200 OK
+2026-05-03 22:00:37 URL: http://localhost:57806/info/img/logo_kof98um.jpg 200 OK
 unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_07_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_07_04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_07_neogeostory.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/t_08.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_08_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_08_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_08_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_08_04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_08_neogeostory.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/t_09.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_09_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_09_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_09_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_09_04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_09_neogeostory.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/t_10.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_05.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_06.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_07.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_08.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_09.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/hakase/img/p_10_neogeostory.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team05.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team06.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team07.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team08.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team09.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team10.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team11.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team12.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team13.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/t_c14.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scl.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_14_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scc01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_14_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scc02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_14_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scr.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scb.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/t_c15.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_15_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_15_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_15_03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/parts_scc03.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_15_04.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/t_c16.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_16_01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_per_16_02.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:40 URL: http://localhost:8765/character/img/menu_team_obi.gif 200 OK
-unlink: No such file or directory
-Read error (Connection reset by peer) in headers.
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/heroes_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/heroes_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/garou_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/garou_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/ryuko_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/ryuko_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/ikari_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/ikari_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/psycho_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/psycho_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/women_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/women_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/korea_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/korea_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/orochi_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/orochi_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/97sp_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/97sp_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/yagami_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/yagami_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/oyaji_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:41 URL: http://localhost:8765/character/img/oyaji_spec01.gif 200 OK
-unlink: No such file or directory
-No data received.
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/usa_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/usa_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/96boss_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/96boss_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara01_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara01_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara02_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara02_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara03_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/98umbosschara03_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara01_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara01_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara02_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara02_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara03_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara03_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara04_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/editchara04_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/cpu01_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/cpu01_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/cpu02_p01.jpg 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/character/img/cpu02_spec01.gif 200 OK
-unlink: No such file or directory
-2026-05-03 00:57:42 URL: http://localhost:8765/info/img/logo_kof98um.jpg 200 OK
-unlink: No such file or directory
-Found 3 broken links.
+Found 1 broken link.
 
-http://localhost:8765/inquiry/mmbb.php
-http://localhost:8765/Scripts/AC_RunActiveContent.js
-http://localhost:8765/__utm.js
+http://localhost:57806/inquiry/mmbb.php
 
-FINISHED --2026-05-03 00:57:42--
-Total wall clock time: 5.5s
-Downloaded: 45 files, 880K in 0.001s (1.40 GB/s)
+FINISHED --2026-05-03 22:00:37--
+Total wall clock time: 1.1s
+Downloaded: 45 files, 858K in 0s (6.25 GB/s)

@@ -8,7 +8,88 @@
   "primary_snapshot": null,
   "primary_snapshot_url": null,
   "live_fetched_at": "2026-05-02T22:57:33.165150Z",
-  "complementary_snapshots": [],
+  "complementary_snapshots": [
+    {
+      "ts": "",
+      "asset": "Scripts/AC_RunActiveContent.js"
+    },
+    {
+      "ts": "",
+      "asset": "official/character/index.html"
+    },
+    {
+      "ts": "",
+      "asset": "official/common.css"
+    },
+    {
+      "ts": "",
+      "asset": "official/common.js"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_98um_xboxlive.gif"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu01.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu01_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu02.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu02_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu03.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu03_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu04.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu04_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu05.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu05_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu06.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/b_menu06_f2.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/bana_snkplaymore.gif"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/bg.jpg"
+    },
+    {
+      "ts": "",
+      "asset": "official/common/bg_left.gif"
+    }
+  ],
   "missing_assets": [],
   "captured_at": "2026-05-02T22:57:33.165448Z",
   "tool": "wget",
